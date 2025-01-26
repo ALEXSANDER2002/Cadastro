@@ -4,6 +4,19 @@ Este é um projeto simples e responsivo que permite **cadastrar** e **listar pro
 
 ---
 
+## 📷 Demonstração do Projeto
+
+### Tela de Cadastro
+![Tela de Cadastro](docs/cadastro.png)
+
+### Tela de Listagem
+![Tela de Listagem](docs/listagem.png)
+
+### Botão de Contato
+![Botão de Contato](docs/contato.png)
+
+---
+
 ## 🚀 Funcionalidades do Projeto
 
 1. **Cadastro de Produtos**
@@ -15,16 +28,7 @@ Este é um projeto simples e responsivo que permite **cadastrar** e **listar pro
    - Campo de pesquisa para filtrar produtos pelo nome.
    - Botão para cadastrar novos produtos.
 
-3. **Responsividade**
-   - Layout adaptado para dispositivos móveis.
-
-4. **Botão de Contato**
-   - Redireciona o usuário para o WhatsApp com uma mensagem pré-definida.
+3. **Botão de Contato**
+   - Redireciona para o WhatsApp com mensagem pré-definida.
 
 ---
-
-## 🛠️ Tecnologias Utilizadas
-
-- **HTML**: Estrutura do projeto.
-- **CSS**: Estilização da página, incluindo responsividade.
-- **JavaScript**: Funcionalidade interativa (cadastrar, listar e pesquisar produtos).
