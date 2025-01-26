@@ -7,10 +7,10 @@ Este é um projeto simples e responsivo que permite **cadastrar** e **listar pro
 ## 📷 Demonstração do Projeto
 
 ### Tela de Cadastro
-![Tela de Cadastro](OAK-TECNOLOGIA.png)
+![Tela de Cadastro](cadastro.png)
 
 ### Tela de Listagem
-![Tela de Listagem](docs/listagem.png)
+![Tela de Listagem](lista.png)
 
 ### Botão de Contato
 ![Botão de Contato](docs/contato.png)
